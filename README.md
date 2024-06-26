@@ -12,18 +12,27 @@ PassShield is a Python-based terminal application designed for password security
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/passshield.git
-2.cd passshield
+   ```
+   
+2.Navigate to the project directory:
 
-3.python passshield.py
+  ```
 
-Contributing
+     cd passshield
+ ```
+3.Run the script and follow the on-screen instructions to use the PassShield tool:
+
+```
+    python passshield.py
+
+```
+**Contributing**<br>
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+
+**Acknowledgements**<br>
 This tool utilizes the Pwned Passwords API for checking password leaks.
 Built with Python and standard libraries including requests, hashlib, re, and random.
