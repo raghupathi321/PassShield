@@ -1,3 +1,16 @@
+Name:APPALA RAGHUPATHI
+Company:CODTECH IT SOLUTIONS
+ID:CT08DS3280
+DOMAIN: CYBER SECURITY & ETHICAL HACKING
+DURATION:4 WEEKS (JUNE 25 th to JULY 25 th)
+MENTOR:Neela Santhosh Kumar
+
+
+#Overview of the Project
+
+Project:Password Strength Checker
+
+
 # PassShield
 
 PassShield is a Python-based terminal application designed for password security and generation.
