@@ -1,14 +1,14 @@
-Name:APPALA RAGHUPATHI
-Company:CODTECH IT SOLUTIONS
-ID:CT08DS3280
-DOMAIN: CYBER SECURITY & ETHICAL HACKING
-DURATION:4 WEEKS (JUNE 25 th to JULY 25 th)
-MENTOR:Neela Santhosh Kumar
+Name:APPALA RAGHUPATHI <br>
+Company:CODTECH IT SOLUTIONS<br>
+ID:CT08DS3280<br>
+DOMAIN: CYBER SECURITY & ETHICAL HACKING<br>
+DURATION:4 WEEKS (JUNE 25 th to JULY 25 th)<br>
+MENTOR:Neela Santhosh Kumar<br>
 
 
-#Overview of the Project
+#Overview of the Project<br>
 
-Project:Password Strength Checker
+Project:Password Strength Checker<br>
 
 
 # PassShield
